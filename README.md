@@ -35,7 +35,7 @@ A powerful Python script for automating vulnerability scanning with Acunetix Web
 
 ### Python Dependencies
 ```bash
-pip install requests configparser
+pip3 install requests configparser
 ```
 
 ## 🛠️ Installation
@@ -261,31 +261,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📞 Support
-
-For support and questions:
-- Create an issue on GitHub
-- Check the [Wiki](wiki) for additional documentation
-- Review Acunetix official documentation
 
 ## ⚠️ Disclaimer
 
 This tool is for authorized security testing only. Users are responsible for compliance with all applicable laws and regulations. Only use this tool on systems you own or have explicit permission to test.
-
-## 🔄 Changelog
-
-### v25.5 (Latest)
-- Added API Discovery Scanning
-- Implemented WebSocket Testing
-- Added JWT Scanning capabilities
-- GraphQL Support integration
-- Real-time vulnerability monitoring
-- OpenAPI specification support
-- Enhanced technology detection
-- Sensitive data scanning improvements
-
-### Previous Versions
-See [CHANGELOG.md](CHANGELOG.md) for detailed version history.
 
 ---
 
