@@ -48,7 +48,7 @@ cd awvs
 
 ## ⚙️ Configuration
 
-Create a `config.ini` file in the project root directory:
+Edit `config.ini` file in the project root directory:
 
 ```ini
 [acunetix]
@@ -98,7 +98,7 @@ timeout = 30
 
 Run the script:
 ```bash
-python acunetix_scanner.py
+python3 acunetix_scanner.py
 ```
 
 ### Menu Options
