@@ -4,9 +4,9 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Acunetix](https://img.shields.io/badge/Acunetix-v25.5-orange.svg)](https://www.acunetix.com/)
 
-A comprehensive Python automation script for Acunetix Web Vulnerability Scanner with advanced features including API discovery, WebSocket testing, JWT scanning, and real-time vulnerability monitoring.
+![AWVS Logo](https://www.acunetix.com/wp-content/uploads/2021/08/acunetix-logo.svg)
 
-## 🚀 Features
+A powerful Python script for automating vulnerability scanning with Acunetix Web Vulnerability Scanner (AWVS) v25.5.2. This tool enables bulk target scanning, modern web vulnerability detection, and real-time monitoring.
 
 ### Core Functionality
 - **Automated Target Management**: Add, configure, and scan multiple targets
@@ -42,18 +42,9 @@ pip install requests configparser
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/acunetix-enhanced-scanner.git
-cd acunetix-enhanced-scanner
+git clone https://github.com/cybernock/awvs.git
+cd awvs
 ```
-
-2. **Install dependencies:**
-```bash
-pip install -r requirements.txt
-```
-
-3. **Configure the scanner:**
-   - Copy `config.ini.example` to `config.ini`
-   - Update configuration parameters (see Configuration section)
 
 ## ⚙️ Configuration
 
