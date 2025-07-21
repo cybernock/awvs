@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Acunetix](https://img.shields.io/badge/Acunetix-v25.5-orange.svg)](https://www.acunetix.com/)
 
-![AWVS Logo](https://www.acunetix.com/wp-content/uploads/2021/08/acunetix-logo.svg)
+![AWVS Logo](https://www.acunetix.com/wp-content/themes/acunetix/img/logo-1.svg)
 
 A powerful Python script for automating vulnerability scanning with Acunetix Web Vulnerability Scanner (AWVS) v25.5.2. This tool enables bulk target scanning, modern web vulnerability detection, and real-time monitoring.
 
